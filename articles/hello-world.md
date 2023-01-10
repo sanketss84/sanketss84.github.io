@@ -1,6 +1,7 @@
 ## hello world
-this is a test page
 
-- test 1
-- test 2
-- test 3
+Hello and welcome.
+This is a a place where I share notes on projects I am working on.
+Hope these notes help you in someway.
+Have a wonderful day.
+Sanket Sonavane
