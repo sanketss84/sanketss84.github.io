@@ -2,7 +2,7 @@
 
 author: sanket sonavane
 create date: 2023-01-10
-article state: partial
+article state: in-progress
 
 
 ![mod008](../assets/img/akko-mod008/mod008-1.webp)

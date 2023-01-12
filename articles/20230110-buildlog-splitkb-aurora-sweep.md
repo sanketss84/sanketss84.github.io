@@ -2,7 +2,7 @@
 
 author: sanket sonavane
 create date: 2023-01-10
-article state: pending
+article state: in-progress
 
 
 ![](../assets/img/aurora-sweep/sweep-1.webp)
