@@ -81,7 +81,7 @@ to test your finger placement on these keyboards you can take a printout of thes
 	- Part 4 [Sofle Keyboard evolution: slow and not really steady – Josef Adamčík](https://josef-adamcik.cz/electronics/soflekeyboard-evolving.html)
 	- Part 5 [Another year of Sofle keyboard – Josef Adamčík](https://josef-adamcik.cz/electronics/another_year_for_sofle.html)
 - Sofle Keyboard
-	- [SofleKeyboard | A split keyboard based on Lily58, Crkbd and Helix keyboards](https://josefadamcik.github.io/SofleKeyboard/) 
+	- [SofleKeyboard - A split keyboard based on Lily58, Crkbd and Helix keyboards](https://josefadamcik.github.io/SofleKeyboard/) 
 	- [josefadamcik/SofleKeyboard: A split keyboard based on Lily58, Crkbd and Helix keyboards](https://github.com/josefadamcik/SofleKeyboard)
 	- [qmk\_firmware/keyboards/sofle at master · qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/sofle) qmk sofle codebase and keymaps
 - Lily58 Keyboard
