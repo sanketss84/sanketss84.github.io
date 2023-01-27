@@ -9,7 +9,7 @@ NOTE: This article is a work in progress
 - keyboard pcb 
     - this can be normal or split
     - with support for hotswap sockets
-- diode 1N4148 (SMD or Axial)
+- diode 1n4148 (smd or axial)
 - oled 128x16 
 - hotswap sockets
     - kailh mx host swap
@@ -18,18 +18,18 @@ NOTE: This article is a work in progress
 - trrs cable
 - trrs socket
 - microcontroller
-    - Atmega 32u4 based
-        - ProMicro
-        - Elite-C
-    - RP 2040 based
-        - Elite-Pi
-        - Arcadia
-        - Liatris
-        - SeaPicro
-        - Pico
+    - atmega 32u4 based
+        - promicro
+        - elite-c
+    - rp 2040 based
+        - elite-pi
+        - arcadia
+        - liatris
+        - seapicro
+        - pico
     - wireless
         - nice!nano (bluetooth)
-- encoder or knobs EC11
+- encoder or knobs ec11
 - thumb encoder 
-- Female Socket for microcontroller
-- Mill-Max pins for microcontroller
+- female socket for microcontroller
+- mill-max pins for microcontroller
