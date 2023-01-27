@@ -1,7 +1,8 @@
 # IRIS Vs Lily Vs Sofle 
-Author:  Sanket Sonavane </br>
-Publish Date: 2023 01 27 </br>
-Last Updated: 2023 01 27 </br>
+Author: Sanket Sonavane   
+Publish Date: 2023-01-27  
+Last Updated: 2023-01-27  
+
 
 NOTE: This article is a work in progress and has my latest thoughts documented.
 
