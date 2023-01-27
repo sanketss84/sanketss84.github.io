@@ -37,15 +37,15 @@ It started with the IRIS group buy  but as I started digging in to better unders
 
 ## sofle v2 community contributions
 - Sofle V2 (MX hotswap only) by Josef Adamcik (original)
-    - [Sofle Keyboard - build guide (v1/v2) | SofleKeyboard](https://josefadamcik.github.io/SofleKeyboard/build_guide.html)
+    - [Sofle Keyboard - build guide (v1/v2) - SofleKeyboard](https://josefadamcik.github.io/SofleKeyboard/build_guide.html)
 - Sofle V2 RGB by Dane Evans (designed from scratch) 
-    - [Sofle Keyboard - build guide (RGB) | SofleKeyboard](https://josefadamcik.github.io/SofleKeyboard/build_guide_rgb.html)
+    - [Sofle Keyboard - build guide (RGB) - SofleKeyboard](https://josefadamcik.github.io/SofleKeyboard/build_guide_rgb.html)
 - Sofle V2 low profile by Brian Low (designed from scratch)
-    - [Sofle Keyboard - build guide (Choc) | SofleKeyboard](https://josefadamcik.github.io/SofleKeyboard/build_guide_choc.html) 
+    - [Sofle Keyboard - build guide (Choc) - SofleKeyboard](https://josefadamcik.github.io/SofleKeyboard/build_guide_choc.html) 
 
 There is also other variations 
 - Sofle RGB by Keyhive its code is totally different and maintained by keyhive
-- Kimiko [Search results for kimiko | Keycapsss](https://keycapsss.com/search?sSearch=kimiko) 
+- Kimiko [Search results for kimiko - Keycapsss](https://keycapsss.com/search?sSearch=kimiko) 
 
 read more https://josef-adamcik.cz/electronics/another_year_for_sofle.html
 
@@ -62,11 +62,11 @@ to test your finger placement on these keyboards you can take a printout of thes
 - check all your finger movements while touch typing especially your pinky and the thumb placement.
 
 **PDF downloads**
-[iris a4 pdf to scale](/assets/pdf/compare_iris_A4.pdf)
-[lily58 a4 pdf to scale](/assets/pdf/compare_lily58_A4.pdf)
-[sofle v1 a4 pdf to scale](/assets/pdf/compare_sofle_v1_A4.pdf)
-[sofle v2 a4 pdf to scale](/assets/pdf/compare_sofle_v2_A4.pdf)
-[kimiko a4 pdf to scale](/assets/pdf/compare_kimiko_A4.pdf)
+- [iris a4 pdf to scale](/assets/pdf/compare_iris_A4.pdf)  
+- [lily58 a4 pdf to scale](/assets/pdf/compare_lily58_A4.pdf)  
+- [sofle v1 a4 pdf to scale](/assets/pdf/compare_sofle_v1_A4.pdf)  
+- [sofle v2 a4 pdf to scale](/assets/pdf/compare_sofle_v2_A4.pdf)  
+- [kimiko a4 pdf to scale](/assets/pdf/compare_kimiko_A4.pdf)  
 
 ## footnotes
 
