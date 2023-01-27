@@ -6,7 +6,7 @@ Last Updated: 2023-01-27
 NOTE: This article is a work in progress
 
 ## typing test
-- [Typing Practice for Programmers | typing.io](https://typing.io/) 
+- [Typing Practice for Programmers - typing.io](https://typing.io/) 
 
 ## misc helpers
 - [Bongo Cat](https://bongo.cat/) 
@@ -20,7 +20,7 @@ NOTE: This article is a work in progress
 - [QMK Firmware](https://qmk.fm/) 
 - [qmk_firmware github](https://github.com/qmk/qmk_firmware)
 - [QMK Configurator](https://config.qmk.fm/)
-- [VIA | VIA](https://www.caniusevia.com/)
+- [VIA](https://www.caniusevia.com/)
 - [Vial](https://get.vial.today/)
 
 ### zmk
