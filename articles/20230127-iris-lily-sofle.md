@@ -31,8 +31,8 @@ It started with the IRIS group buy  but as I started digging in to better unders
 
 > PS I havent checked the code base myself yet.
 
-[qmk_firmware sofle](https://github.com/qmk/qmk_firmware/tree/master/keyboards/sofle) 
-[qmk_firmware lily58](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lily58)
+- [qmk_firmware sofle](https://github.com/qmk/qmk_firmware/tree/master/keyboards/sofle)  
+- [qmk_firmware lily58](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lily58)
 
 ## sofle v1 to v2
 - SofleV1 was created as an improvement over Lily58 by adding two additional keys to the PCB and supports MX and choc hotswap sockets

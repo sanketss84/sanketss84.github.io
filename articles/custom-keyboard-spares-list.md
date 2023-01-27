@@ -33,3 +33,10 @@ NOTE: This article is a work in progress
 - thumb encoder 
 - female socket for microcontroller
 - mill-max pins for microcontroller
+
+## pcb gerber files for open source keyboards
+- [help-14/mechanical-keyboard: DIY mechanical keyboard and where to find them](https://github.com/help-14/mechanical-keyboard)  
+- sofle v2.0.1 [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard/releases)  
+- sweep [davidphilipbarr/Sweep: Sweep](https://github.com/davidphilipbarr/Sweep)  
+- [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR/tree/main/PCB)  
+
