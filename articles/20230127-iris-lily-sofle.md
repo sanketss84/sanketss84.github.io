@@ -3,8 +3,10 @@ Author: Sanket Sonavane
 Publish Date: 2023-01-27  
 Last Updated: 2023-01-27  
 
-
 NOTE: This article is a work in progress and has my latest thoughts documented.
+
+## summary
+sofle v2 :P
 
 ## why sofle v2 > lily58 pro > iris rev7
 It started with the IRIS group buy  but as I started digging in to better understand the board I started seeing some shortcomings and also found that there are boards which might be more modular and flexible for my needs. this is what made me research lily 58 pro and then lead to sofle.
@@ -28,6 +30,9 @@ It started with the IRIS group buy  but as I started digging in to better unders
 - so this is a much more streamlined and efficient code base which get rids of bits that are old or deprecated
 
 > PS I havent checked the code base myself yet.
+
+[qmk_firmware sofle](https://github.com/qmk/qmk_firmware/tree/master/keyboards/sofle) 
+[qmk_firmware lily58](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lily58)
 
 ## sofle v1 to v2
 - SofleV1 was created as an improvement over Lily58 by adding two additional keys to the PCB and supports MX and choc hotswap sockets
@@ -67,6 +72,9 @@ to test your finger placement on these keyboards you can take a printout of thes
 - [sofle v1 a4 pdf to scale](/assets/pdf/compare_sofle_v1_A4.pdf)  
 - [sofle v2 a4 pdf to scale](/assets/pdf/compare_sofle_v2_A4.pdf)  
 - [kimiko a4 pdf to scale](/assets/pdf/compare_kimiko_A4.pdf)  
+
+## qmk configurator
+[Sofle QMK Configurator](https://config.qmk.fm/#/sofle/rev1/LAYOUT)
 
 ## footnotes
 
