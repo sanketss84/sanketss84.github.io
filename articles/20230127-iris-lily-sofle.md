@@ -1,7 +1,7 @@
 # IRIS Vs Lily Vs Sofle 
-Author:  Sanket Sonavane
-Publish Date: 2023 01 27
-Last Updated: 2023 01 27
+Author:  Sanket Sonavane </br>
+Publish Date: 2023 01 27 </br>
+Last Updated: 2023 01 27 </br>
 
 NOTE: This article is a work in progress and has my latest thoughts documented.
 
@@ -35,11 +35,24 @@ It started with the IRIS group buy  but as I started digging in to better unders
 - SofleV2 Choc HotSwap was created by another community member as scratch PCB 
 
 ## sofle v2 community contributions
-- Sofle V2 (MX hotswap only) by the Josef Adamcik
+- Sofle V2 (MX hotswap only) by Josef Adamcik (original)
+    - [Sofle Keyboard - build guide (v1/v2) | SofleKeyboard](https://josefadamcik.github.io/SofleKeyboard/build_guide.html)
 - Sofle V2 RGB by Dane Evans (designed from scratch) 
+    - [Sofle Keyboard - build guide (RGB) | SofleKeyboard](https://josefadamcik.github.io/SofleKeyboard/build_guide_rgb.html)
 - Sofle V2 low profile by Brian Low (designed from scratch)
+    - [Sofle Keyboard - build guide (Choc) | SofleKeyboard](https://josefadamcik.github.io/SofleKeyboard/build_guide_choc.html) 
+read more https://josef-adamcik.cz/electronics/another_year_for_sofle.html
+
+There is also Sofle RGB by Keyhive its code is totally different and maintained by keyhive
+
+## sofle v2 vs lily58 pro hand placement
+- pending
 
 ## footnotes
+
+## references
+- [SofleKeyboard | A split keyboard based on Lily58, Crkbd and Helix keyboards](https://josefadamcik.github.io/SofleKeyboard/) 
+- [josefadamcik/SofleKeyboard: A split keyboard based on Lily58, Crkbd and Helix keyboards](https://github.com/josefadamcik/SofleKeyboard)
 - [Building a custom keyboard - Katana60 – Josef Adamčík](https://josef-adamcik.cz/electronics/buiding-a-custom-keyboard-katana60.html) 
 - [Corne keyboard – Josef Adamčík](https://josef-adamcik.cz/electronics/corne-keyboard-build-log.html) 
 * Sofle Journey of Josef Adamčík
