@@ -54,6 +54,7 @@ There is also Sofle RGB by Keyhive its code is totally different and maintained 
 ## references
 - [SofleKeyboard | A split keyboard based on Lily58, Crkbd and Helix keyboards](https://josefadamcik.github.io/SofleKeyboard/) 
 - [josefadamcik/SofleKeyboard: A split keyboard based on Lily58, Crkbd and Helix keyboards](https://github.com/josefadamcik/SofleKeyboard)
+- [Extend Extra Extreme! - User contributions - Colemak forum](https://forum.colemak.com/topic/2014-extend-extra-extreme/)
 - [Building a custom keyboard - Katana60 – Josef Adamčík](https://josef-adamcik.cz/electronics/buiding-a-custom-keyboard-katana60.html) 
 - [Corne keyboard – Josef Adamčík](https://josef-adamcik.cz/electronics/corne-keyboard-build-log.html) 
 * Sofle Journey of Josef Adamčík
