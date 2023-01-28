@@ -25,7 +25,7 @@ So now that you have two dxf files , open one dxf in freecad and import another 
 repeat the same for bottom plate and give these files to your laser acrylic service and you have your top and bottom plate with plate holes.
 
 EDIT:
-Seems like F.Mask might be larger so I have decided to just print the Edge.Cut DXF file and manually drill the holes with a drill machine.
+Seems like F.Mask might generate larger holes than needed so I have decided to just print the Edge.Cut DXF file and manually drill the holes with a drill machine.
 
 ## Further notes
 While this merging of multiple dxf into a single dxf should be part of KiCAD but its still not there in it, I am a beginner with KiCAD and atleast I could not find this so thankfully FreeCAD was there to rescue.
