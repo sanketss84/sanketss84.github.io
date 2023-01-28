@@ -25,7 +25,16 @@ So now that you have two dxf files , open one dxf in freecad and import another 
 repeat the same for bottom plate and give these files to your laser acrylic service and you have your top and bottom plate with plate holes.
 
 EDIT:
-Seems like F.Mask might generate larger holes than needed so I have decided to just print the Edge.Cut DXF file and manually drill the holes with a drill machine.
+Seems like F.Mask might generate larger holes than needed so I ended up manually creating those holes (circles) the size of M2 screws on the Edge.Cut layer for top and bottom plate, roughly 2.2mm in diameter. Will get this acrylic cut done and see if all this worked out. will update here.
 
 ## Further notes
 While this merging of multiple dxf into a single dxf should be part of KiCAD but its still not there in it, I am a beginner with KiCAD and atleast I could not find this so thankfully FreeCAD was there to rescue.
+
+## References
+- [Any way to export edge cut AND holes as a DXF? (need it for CNC) : KiCad](https://www.reddit.com/r/KiCad/comments/rggd0l/any_way_to_export_edge_cut_and_holes_as_a_dxf/)
+- [Export DXF or SVG of Edge Cuts and Hole Outlines? - Layout - KiCad.info Forums](https://forum.kicad.info/t/export-dxf-or-svg-of-edge-cuts-and-hole-outlines/4761/2) 
+- [Creating a PCB layout in Pcbnew, Kicad's layout editor](https://techexplorations.com/guides/kicad/2e/pcbnew-layout/) 
+- [Sofle v2 top plate with lip - Adafruit](https://blog.adafruit.com/2022/03/10/sofle-v2-top-plate-w-lip-3dthursday-3dprinting/) 
+- [Keebio Plate Generator](https://plate.keeb.io/) 
+- [ai03 Plate Generator](https://kbplate.ai03.com/) 
+- [Keyboard Plate Generator](https://eswai.github.io/plategen/plategen.html) 
