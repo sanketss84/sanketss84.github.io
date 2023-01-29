@@ -5,7 +5,7 @@ Publish Date: 2023-01-29
 Last Updated: 2023-01-29  
 
 ## Summary
-When soldering your microcontroller make sure there is a tape (on all holes) sandwiched between socket and microcontroller. Read below to find out why. 
+When soldering your microcontroller make sure there is a tape (on all holes) sandwiched between socket and microcontroller. So that when you try to remove the microcontroller you are not surprised that the solder has passed through into the socket and your microcontroller is stuck. 
 
 ![](/assets/img/tape-socket-mc/socket-legs.jpg)
 
