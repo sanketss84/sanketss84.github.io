@@ -5,7 +5,7 @@ create date: 2023-01-10
 article state: in-progress
 
 
-![mod008](../assets/img/akko-mod008/mod008-1.webp)
+![mod008](../assets/img/akko-mod008/akko-mod-008-med.jpg)
 
 
 **keyboard chassis:** 
