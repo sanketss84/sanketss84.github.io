@@ -16,11 +16,13 @@ Thomas Bart from splitkb has written a fabulous article on how this is done [How
 
 If you are building a custom mechanical keyboard which uses a microcontroller and you decided to socket it then 
 - first solder the sockets to the pcb and use tape to hold the socket in place.
-- next ensure tape is applied to entire socket.
-- next seat the controller and insert mill max pins or diode legs.
-- next solder the microcontroller.
-- remove the microcontroller , remove the tape.
-- reinsert the microcontroller.
+- ensure tape is applied to entire socket.
+- seat the controller and insert mill max pins or diode legs.
+- solder the microcontroller on those socketed legs.
+- now gently remove the microcontroller to remove remove the tape.
+    - this tape ensures the solder does not pass into the socket below making removal of that microcontroller difficult in the future.
+    - if you have used diode legs note they are a bit weaker so straigthen them if bent while reinserting.
+- reinsert the microcontroller. 
 
 this tape ensures that the solder does not pass through into the socket its super important part of this whole soldering process as you socket your microcontroller.
 
