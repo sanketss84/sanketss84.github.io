@@ -49,7 +49,7 @@ there are more
 - Ultimaker Cura
     - [Ultimaker Cura](https://support.makerbot.com/s/topic/0TO5b000000Q4utGAC/ultimaker-cura)
 - Prusa Slicer - Slic3r 
-    - [PrusaSlicer | Prusa Knowledge Base](https://help.prusa3d.com/category/prusaslicer_204) 
+    - [PrusaSlicer - Prusa Knowledge Base](https://help.prusa3d.com/category/prusaslicer_204) 
 
 ## 3d parametric modeler
 - 
@@ -79,28 +79,29 @@ there are more
 ### discords 
 need to add...
 
-### youtuber
-- [Teaching Tech - YouTube](https://www.youtube.com/@TeachingTech/videos) 
-- [ModBot - YouTube](https://www.youtube.com/@ModBotArmy/videos) | [ModBotArmy - YouTube](https://www.youtube.com/@ModBotArmyy/featured) 
-- [Maker's Muse - YouTube](https://www.youtube.com/@MakersMuse/videos)
-- [CNC Kitchen - YouTube](https://www.youtube.com/@CNCKitchen/videos) 
-- [Geek Detour - YouTube](https://www.youtube.com/@GeekDetour)
-- [The Edge of Tech - YouTube](https://www.youtube.com/@TheEdgeofTech/videos) 
-- [Thomas Sanladerer - YouTube](https://www.youtube.com/@MadeWithLayers/videos)
-- [Ricky Impey - YouTube](https://www.youtube.com/@RickyImpey/videos)
-- [Chris Riley - YouTube](https://www.youtube.com/@ChrisRiley/videos)
-- [Aurora Tech - YouTube](https://www.youtube.com/@AuroraTech/videos)  
-- [Lost In Tech - YouTube](https://www.youtube.com/@LostInTech3D/videos) 
-- [Rolohaun - YouTube](https://www.youtube.com/@Rolohaun/videos)  
-- [The Next Layer - YouTube](https://www.youtube.com/@thenextlayer/videos)  
-- [HackMonkey - YouTube](https://www.youtube.com/@HackMonkey/videos) 
-- [3D Revolution - YouTube](https://www.youtube.com/@3DRevolution/videos)
+### youtubers
+- [Teaching Tech](https://www.youtube.com/@TeachingTech/videos) 
+- [ModBot](https://www.youtube.com/@ModBotArmy/videos) 
+- [ModBotArmy](https://www.youtube.com/@ModBotArmyy/featured) 
+- [Maker's Muse](https://www.youtube.com/@MakersMuse/videos)
+- [CNC Kitchen](https://www.youtube.com/@CNCKitchen/videos) 
+- [Geek Detour](https://www.youtube.com/@GeekDetour)
+- [The Edge of Tech](https://www.youtube.com/@TheEdgeofTech/videos) 
+- [Thomas Sanladerer](https://www.youtube.com/@MadeWithLayers/videos)
+- [Ricky Impey](https://www.youtube.com/@RickyImpey/videos)
+- [Chris Riley](https://www.youtube.com/@ChrisRiley/videos)
+- [Aurora Tech](https://www.youtube.com/@AuroraTech/videos)  
+- [Lost In Tech](https://www.youtube.com/@LostInTech3D/videos) 
+- [Rolohaun](https://www.youtube.com/@Rolohaun/videos)  
+- [The Next Layer](https://www.youtube.com/@thenextlayer/videos)  
+- [HackMonkey](https://www.youtube.com/@HackMonkey/videos) 
+- [3D Revolution](https://www.youtube.com/@3DRevolution/videos)
 
 manufacturers
-- [Creality - YouTube](https://www.youtube.com/@Creality3D/videos)
-- [Creality After-sale - YouTube](https://www.youtube.com/@crealityafter-sale5706/videos)
-- [Prusa 3D by Josef Prusa - YouTube](https://www.youtube.com/@Prusa3D/videos)
-- [VORON Design - YouTube](https://www.youtube.com/@russiancatfood/videos) 
+- [Creality](https://www.youtube.com/@Creality3D/videos)
+- [Creality After-sale](https://www.youtube.com/@crealityafter-sale5706/videos)
+- [Prusa 3D by Josef Prusa](https://www.youtube.com/@Prusa3D/videos)
+- [VORON Design](https://www.youtube.com/@russiancatfood/videos) 
 
 
 ## blogs
