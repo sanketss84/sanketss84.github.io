@@ -17,21 +17,21 @@ there are more
 
 ## firmwares
 - marlin 
-    - [Home | Marlin Firmware](https://marlinfw.org/)
+    - [Marlin Firmware](https://marlinfw.org/)
 - klipper 
-    - [Welcome - Klipper documentation](https://www.klipper3d.org/)
+    - [Klipper documentation](https://www.klipper3d.org/)
 - professional firmware 
     - [mriscoc/Ender3V2S1: This is optimized firmware for Ender3 V2/S1 3D printers.](https://github.com/mriscoc/Ender3V2S1)
 - th3d 
-    - [th3dstudio (TH3D Studio LLC)](https://github.com/th3dstudio)
+    - [th3dstudio - TH3D Studio LLC](https://github.com/th3dstudio)
 
 ## raspberry pi and 3dp
 - octopi
-    - [OctoPrint.org - Download & Setup OctoPrint](https://octoprint.org/download/)
+    - [OctoPrint](https://octoprint.org/download/)
 - klipper
     - mainsail os
-        - [Welcome | Mainsail](https://docs.mainsail.xyz/)
-        - [KIAUH | Mainsail](https://docs.mainsail.xyz/setup/kiauh)
+        - [Mainsail](https://docs.mainsail.xyz/)
+        - [KIAUH - Mainsail](https://docs.mainsail.xyz/setup/kiauh)
 - kiauh
     - [th33xitus/kiauh: Klipper Installation And Update Helper](https://github.com/th33xitus/kiauh)
     
@@ -40,9 +40,9 @@ there are more
     - [OctoPrint.org](https://octoprint.org/)
 - for klipper 
     - mainsail
-        - [Welcome | Mainsail](https://docs.mainsail.xyz/)
+        - [Mainsail](https://docs.mainsail.xyz/)
     - fluidd
-        - [Welcome | Fluidd](https://docs.fluidd.xyz/)
+        - [Fluidd](https://docs.fluidd.xyz/)
 
 ## slicers
 
