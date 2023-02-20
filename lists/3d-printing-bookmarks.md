@@ -26,14 +26,16 @@ there are more
     - [th3dstudio - TH3D Studio LLC](https://github.com/th3dstudio)
 
 ## raspberry pi and 3dp
-- octopi
-    - [OctoPrint](https://octoprint.org/download/)
 - klipper
     - mainsail os
         - [Mainsail](https://docs.mainsail.xyz/)
         - [KIAUH - Mainsail](https://docs.mainsail.xyz/setup/kiauh)
+    - octoklipperpi
+        - [guysoft/OctoKlipperPi](https://github.com/guysoft/OctoKlipperPi)
 - kiauh
     - [th33xitus/kiauh: Klipper Installation And Update Helper](https://github.com/th33xitus/kiauh)
+- octopi
+    - [OctoPrint](https://octoprint.org/download/)
     
 ### web ui
 - octoprint
@@ -102,9 +104,13 @@ manufacturers
 - [Creality After-sale](https://www.youtube.com/@crealityafter-sale5706/videos)
 - [Prusa 3D by Josef Prusa](https://www.youtube.com/@Prusa3D/videos)
 - [VORON Design](https://www.youtube.com/@russiancatfood/videos) 
-
+- [ZeriG](https://zerog.one/) , [ZeroG docs](https://docs.zerog.one/)]
+- [BIGTREETECH](https://bigtree-tech.com/)
+- [Biqu Equipment - BigTreeTech](https://biqu.equipment/) 
+- [FYSETC](https://www.fysetc.com/) 
 
 ## blogs
 
 - [All3DP](https://all3dp.com)
+- [Obico Knowledge Base](https://www.obico.io/blog/) 
 - [Bob's Project Notebook](https://projects.ttlexceeded.com/index.html) 

@@ -4,3 +4,7 @@ Publish Date: 2023-02-13
 Last Updated: 2023-02-13    
 
 NOTE: This article is a work in progress
+
+## daily objects
+
+## parts for Ender-3 S1 Pro 
