@@ -112,5 +112,6 @@ manufacturers
 ## blogs
 
 - [All3DP](https://all3dp.com)
+- [3D Printerly](https://3dprinterly.com/) 
 - [Obico Knowledge Base](https://www.obico.io/blog/) 
 - [Bob's Project Notebook](https://projects.ttlexceeded.com/index.html) 
