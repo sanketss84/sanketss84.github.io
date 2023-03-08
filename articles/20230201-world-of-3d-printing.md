@@ -29,10 +29,10 @@ the language used by printers is GCODE its a set of commands that are present wh
 
 ## references
 - PLA
-    - [What is PLA, this biosourced and biodegradable plastic? | Carbiolice](https://www.carbiolice.com/en/news/pla-bioplastic/) 
-    - [What is PLA | BioPak Australia](https://www.biopak.com/au/resources/what-is-pla)
-    - [Is PLA Actually Biodegrable? | All3DP](https://all3dp.com/2/is-pla-biodegradable-what-you-really-need-to-know/) 
+    - [What is PLA, this biosourced and biodegradable plastic? - Carbiolice](https://www.carbiolice.com/en/news/pla-bioplastic/) 
+    - [What is PLA - BioPak Australia](https://www.biopak.com/au/resources/what-is-pla)
+    - [Is PLA Actually Biodegrable? - All3DP](https://all3dp.com/2/is-pla-biodegradable-what-you-really-need-to-know/) 
 - firmware's
     - [Best Firmware for Ender 3 (Pro/V2/S1) – How to Install – 3D Printerly](https://3dprinterly.com/best-firmware-for-ender-3-pro-v2-s1-how-to-install/)
-    - [The Best 3D Printer Firmware of 2022 | All3DP](https://all3dp.com/2/3d-printer-firmware-which-to-choose-and-how-to-change-it/)
-    - [Creality Ender 3 (V2/Pro) Firmware Update: The Best Options | All3DP](https://all3dp.com/2/ender-3-firmware-update-the-best-options/)
+    - [The Best 3D Printer Firmware of 2022 - All3DP](https://all3dp.com/2/3d-printer-firmware-which-to-choose-and-how-to-change-it/)
+    - [Creality Ender 3 (V2/Pro) Firmware Update: The Best Options - All3DP](https://all3dp.com/2/ender-3-firmware-update-the-best-options/)
