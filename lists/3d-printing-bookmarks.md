@@ -1,19 +1,35 @@
 # important websites for 3d printing
 Author: Sanket Sonavane   
 Publish Date: 2023-02-13 
-Last Updated: 2023-02-13    
+Last Updated: 2023-03-08
 
 NOTE: This article is a work in progress
 
 I personally own a Creality Ender-3 S1 Pro and this is my only printer. 
 
-## printers
+## 3d printers
 
-- creality
-- prusa
-- voron design
+- [CREALITY](https://www.creality.com/)
+- [Original Prusa 3D printers directly from Josef Prusa](https://www.prusa3d.com/)
+- [VORON Design](https://vorondesign.com/)
+- [Rat Rig](https://ratrig.com/)
+- [Positron 3D](https://positron3d.com/)
+- [Sovol3D](https://sovol3d.com/#)
 
-there are more
+there are few more
+
+## 3d printer kit makers and addon manufacturers 
+these are some of contributors without whom 3d printing would not be complete
+  
+- [bigtreetech](https://bigtree-tech.com/)
+- [fysetc](https://www.fysetc.com/)
+- [duet 3d](https://www.duet3d.com/)
+- [e3d](https://e3d-online.com/)
+- [phaetus](https://www.phaetus.com/)
+- [ldo motors](http://ldomotors.com/)
+- [formbot](https://www.formbot3d.com/)
+- [west3d](https://west3d.com/)
+- [biqu-design - biqu equipment](https://biqu.equipment/)
 
 ## firmwares
 - marlin 
@@ -21,97 +37,106 @@ there are more
 - klipper 
     - [Klipper documentation](https://www.klipper3d.org/)
 - professional firmware 
-    - [mriscoc/Ender3V2S1: This is optimized firmware for Ender3 V2/S1 3D printers.](https://github.com/mriscoc/Ender3V2S1)
+    - [mriscoc/Ender3V2S1: optimized for Ender3 V2/S1 3D printers.](https://github.com/mriscoc/Ender3V2S1)
 - th3d 
     - [th3dstudio - TH3D Studio LLC](https://github.com/th3dstudio)
+- jyers 
+    - [Jyers/Marlin:](https://github.com/Jyers/Marlin)
+
 
 ## raspberry pi and 3dp
 - klipper
     - mainsail os
-        - [Mainsail](https://docs.mainsail.xyz/)
-        - [KIAUH - Mainsail](https://docs.mainsail.xyz/setup/kiauh)
+        - [mainsail](https://docs.mainsail.xyz/)
+        - [kiauh - mainsail](https://docs.mainsail.xyz/setup/kiauh)
     - octoklipperpi
-        - [guysoft/OctoKlipperPi](https://github.com/guysoft/OctoKlipperPi)
+        - [guysoft/octoklipperpi](https://github.com/guysoft/octoklipperpi)
 - kiauh
-    - [th33xitus/kiauh: Klipper Installation And Update Helper](https://github.com/th33xitus/kiauh)
+    - [th33xitus/kiauh: klipper installation and update helper](https://github.com/th33xitus/kiauh)
 - octopi
-    - [OctoPrint](https://octoprint.org/download/)
+    - [octoprint](https://octoprint.org/download/)
     
 ### web ui
 - octoprint
-    - [OctoPrint.org](https://octoprint.org/)
+    - [octoprint](https://octoprint.org/)
 - for klipper 
     - mainsail
-        - [Mainsail](https://docs.mainsail.xyz/)
+        - [mainsail](https://docs.mainsail.xyz/)
     - fluidd
-        - [Fluidd](https://docs.fluidd.xyz/)
+        - [fluidd](https://docs.fluidd.xyz/)
 
 ## slicers
 
-- Ultimaker Cura
-    - [Ultimaker Cura](https://support.makerbot.com/s/topic/0TO5b000000Q4utGAC/ultimaker-cura)
-- Prusa Slicer - Slic3r 
-    - [PrusaSlicer - Prusa Knowledge Base](https://help.prusa3d.com/category/prusaslicer_204) 
+- ultimaker cura
+    - [ultimaker cura](https://support.makerbot.com/s/topic/0to5b000000q4utgac/ultimaker-cura)
+- prusa slicer - slic3r 
+    - [prusaslicer - prusa knowledge base](https://help.prusa3d.com/category/prusaslicer_204) 
 
 ## 3d parametric modeler
-- 
-- [Onshape](https://www.onshape.com/en/)
-- [FreeCAD](https://www.freecad.org/)
-    - [Getting started - FreeCAD Documentation](https://wiki.freecad.org/Getting_started) 
+- [autodesk fusion 360 ](https://www.autodesk.com/products/fusion-360/)
+- [onshape](https://www.onshape.com/en/)
+- [freecad](https://www.freecad.org/)
+    - [getting started - freecad documentation](https://wiki.freecad.org/getting_started) 
 
 ## 3d models
-- [Thingiverse](https://www.thingiverse.com/)
-- [Printables.com](https://www.printables.com/)
-- [Thangs](https://thangs.com/)
-- [Cults](https://cults3d.com/en)
+- [thingiverse](https://www.thingiverse.com/)
+- [printables.com](https://www.printables.com/)
+- [thangs](https://thangs.com/)
+- [cults](https://cults3d.com/en)
 
 ## communities
 
 ### reddit
-- [3D Printing](https://www.reddit.com/r/3Dprinting/) 
-- [Ender 3](https://www.reddit.com/r/ender3/)
-- [Creality Ender 3 Pro](https://www.reddit.com/r/Ender3Pro/)
-- [Ender3S1](https://www.reddit.com/r/Ender3S1/)
-- [Forum for discussing the open source Prusa 3d printer design.](https://www.reddit.com/r/prusa/)
-- [All things related to Prusa 3D printers](https://www.reddit.com/r/prusa3d/)
-- [Slicer settings for Prusa i3 3D printers](https://www.reddit.com/r/PrusaSlicerSettings/)
-- [VORON Design - A CoreXY 3D Printer Community](https://www.reddit.com/r/VORONDesign/)
-- [A VORON CoreXY Community](https://www.reddit.com/r/voroncorexy/)
-
-### discords 
-need to add...
+- [3d printing](https://www.reddit.com/r/3dprinting/) 
+- [ender 3](https://www.reddit.com/r/ender3/)
+- [creality ender 3 pro](https://www.reddit.com/r/ender3pro/)
+- [ender3s1](https://www.reddit.com/r/ender3s1/)
+- [forum for discussing the open source prusa 3d printer design.](https://www.reddit.com/r/prusa/)
+- [all things related to prusa 3d printers](https://www.reddit.com/r/prusa3d/)
+- [slicer settings for prusa i3 3d printers](https://www.reddit.com/r/prusaslicersettings/)
+- [voron design - a corexy 3d printer community](https://www.reddit.com/r/vorondesign/)
+- [a voron corexy community](https://www.reddit.com/r/voroncorexy/)
 
 ### youtubers
-- [Teaching Tech](https://www.youtube.com/@TeachingTech/videos) 
-- [ModBot](https://www.youtube.com/@ModBotArmy/videos) 
-- [ModBotArmy](https://www.youtube.com/@ModBotArmyy/featured) 
-- [Maker's Muse](https://www.youtube.com/@MakersMuse/videos)
-- [CNC Kitchen](https://www.youtube.com/@CNCKitchen/videos) 
-- [Geek Detour](https://www.youtube.com/@GeekDetour)
-- [The Edge of Tech](https://www.youtube.com/@TheEdgeofTech/videos) 
-- [Thomas Sanladerer](https://www.youtube.com/@MadeWithLayers/videos)
-- [Ricky Impey](https://www.youtube.com/@RickyImpey/videos)
-- [Chris Riley](https://www.youtube.com/@ChrisRiley/videos)
-- [Aurora Tech](https://www.youtube.com/@AuroraTech/videos)  
-- [Lost In Tech](https://www.youtube.com/@LostInTech3D/videos) 
-- [Rolohaun](https://www.youtube.com/@Rolohaun/videos)  
-- [The Next Layer](https://www.youtube.com/@thenextlayer/videos)  
-- [HackMonkey](https://www.youtube.com/@HackMonkey/videos) 
-- [3D Revolution](https://www.youtube.com/@3DRevolution/videos)
+- [teaching tech](https://www.youtube.com/@teachingtech/videos) 
+- [modbot](https://www.youtube.com/@modbotarmy/videos) 
+- [modbotarmy](https://www.youtube.com/@modbotarmyy/featured) 
+- [maker's muse](https://www.youtube.com/@makersmuse/videos)
+- [cnc kitchen](https://www.youtube.com/@cnckitchen/videos) 
+- [aurora tech](https://www.youtube.com/@auroratech/videos)  
+- [the edge of tech](https://www.youtube.com/@theedgeoftech/videos) 
+- [thomas sanladerer](https://www.youtube.com/@madewithlayers/videos)
+- [ricky impey](https://www.youtube.com/@rickyimpey/videos)
+- [geek detour](https://www.youtube.com/@geekdetour)
+- [chris riley](https://www.youtube.com/@chrisriley/videos)
+- [lost in tech](https://www.youtube.com/@lostintech3d/videos) 
+- [rolohaun](https://www.youtube.com/@rolohaun/videos)  
+- [the next layer](https://www.youtube.com/@thenextlayer/videos)  
+- [hackmonkey](https://www.youtube.com/@hackmonkey/videos) 
+- [3d revolution](https://www.youtube.com/@3drevolution/videos)
+
+voron
+- [steve builds](https://www.youtube.com/@stevebuilds/streams)
+- [nero 3d](https://www.youtube.com/@Nero3D/videos)
+- [maple leaf makers](https://www.youtube.com/@mapleleafmakers/videos)
+- [eddietheengineer](https://www.youtube.com/@eddietheengineer/videos)
 
 manufacturers
-- [Creality](https://www.youtube.com/@Creality3D/videos)
-- [Creality After-sale](https://www.youtube.com/@crealityafter-sale5706/videos)
-- [Prusa 3D by Josef Prusa](https://www.youtube.com/@Prusa3D/videos)
-- [VORON Design](https://www.youtube.com/@russiancatfood/videos) 
-- [ZeriG](https://zerog.one/) , [ZeroG docs](https://docs.zerog.one/)]
-- [BIGTREETECH](https://bigtree-tech.com/)
-- [Biqu Equipment - BigTreeTech](https://biqu.equipment/) 
-- [FYSETC](https://www.fysetc.com/) 
+- [creality](https://www.youtube.com/@creality3d/videos)
+- [creality after-sale](https://www.youtube.com/@crealityafter-sale5706/videos)
+- [prusa 3d by josef prusa](https://www.youtube.com/@prusa3d/videos)
+- [voron design](https://www.youtube.com/@russiancatfood/videos) 
+- [rat rig](https://www.youtube.com/@ratrighardware/videos)
+- [zerig](https://zerog.one/) , [zerog docs](https://docs.zerog.one/)]
+- [bigtreetech](https://bigtree-tech.com/)
+- [biqu equipment - bigtreetech](https://biqu.equipment/) 
+- [fysetc](https://www.fysetc.com/) 
 
 ## blogs
 
-- [All3DP](https://all3dp.com)
-- [3D Printerly](https://3dprinterly.com/) 
-- [Obico Knowledge Base](https://www.obico.io/blog/) 
-- [Bob's Project Notebook](https://projects.ttlexceeded.com/index.html) 
+- [all3dp](https://all3dp.com)  
+- [3dprintbeginner](https://3dprintbeginner.com/)  
+- [3d printerly](https://3dprinterly.com/)  
+- [obico knowledge base](https://www.obico.io/blog/)  
+- [bob's project notebook](https://projects.ttlexceeded.com/index.html)  
+
