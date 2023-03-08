@@ -51,15 +51,16 @@ If I were to share a very quick list here it goes
 
 - youtube 
     - AuroraTech
-        - [Creality Ender 3 S1 PRO: In-depth review, Ender 3 S1 VS Ender 3 S1 PRO, side-by-side comparison - YouTube](https://www.youtube.com/watch?v=x7nIJoKfc78&ab_channel=AuroraTech) 22m ⭐
-        - fantastic video and explained everything really well as well as the calibration
+        - [Creality Ender 3 S1 PRO: In-depth review, Ender 3 S1 VS Ender 3 S1 PRO, side-by-side comparison - YouTube](https://www.youtube.com/watch?v=x7nIJoKfc78&ab_channel=AuroraTech) 22m
+        - fantastic video and explained everything really well
+        - explains calibration and cura slicer settings for various filaments
     - TheEdgeofTech
         - [The Creality Ender 3 S1 PRO??!! Live Unboxing, Setup and First Print! - YouTube](https://www.youtube.com/watch?v=KtYUTcrDm2U&ab_channel=TheEdgeofTech) 
         - he must have setup the printer really well his review video showed some really clean prints
         - [How To Fix A Jam on the Ender 3 S1 Pro (FULL Walkthrough) - YouTube](https://www.youtube.com/watch?v=0goTwwAVb58&ab_channel=TheEdgeofTech) 13m 
     - TheTechnologyMan
-        - [Creality Ender 3 S1 Pro review | Most capable 3D printer I've reviewed so far - YouTube](https://www.youtube.com/watch?v=EO2nMoq4J2Y&ab_channel=TheTechnologyMan)  18m 
-        - article [Creality Ender 3 S1 Pro review | The most capable 3D printer I’ve reviewed so far …](https://thetechnologyman.com/creality-ender-3-s1-pro-review-the-most-capable-3d-printer-ive-reviewed-so-far/)   
+        - [Creality Ender 3 S1 Pro review - YouTube](https://www.youtube.com/watch?v=EO2nMoq4J2Y&ab_channel=TheTechnologyMan)  18m 
+        - companion article [Creality Ender 3 S1 Pro review  …](https://thetechnologyman.com/creality-ender-3-s1-pro-review-the-most-capable-3d-printer-ive-reviewed-so-far/)   
     - GeekDetour 
         - [Ender 3 S1 Pro: so good it begs for Klipper! 3D Printer + Creality Sonic Pad - YouTube](https://www.youtube.com/watch?v=bQ6E27bCyBw&t=409s&ab_channel=GeekDetour)
     - RickyImpey  
