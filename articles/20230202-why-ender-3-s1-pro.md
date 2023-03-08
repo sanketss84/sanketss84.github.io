@@ -5,15 +5,15 @@ Last Updated: 2023-03-08
 
 > NOTE: This article is a work in progress 
 
-While choosing a fdm printer (or a printer where you use a colorful filament like PLA, PETG, ABS etc. ) to make prints the first printer you spot online is an Ender 3 by Creality. Ender 3 is synonymous with 3D printing and has a massive community around it and thats why its super popular. While venturing into a new hobby like 3D printing knowing that there is a huge community to back it gives you a lot of comfort as support can be faster over reddit or discord chats and you get answers to most common problems quickly. 
+While choosing a fdm printer (or a printer where you load a filament like PLA, PETG, ABS etc. ) to make prints the first printer you spot online is an Ender 3 by Creality. Ender 3 is synonymous with 3D printing and has a massive community around it and thats why its the first printer for many new to 3D printing. While venturing into a new hobby knowing that there is a huge community to back it, gives you a lot of comfort as support can be faster over reddit or discord chats. Answers to most common problems are a search or community talk away. 
 
-To understand fdm is read here 
+To understand what fdm is read here 
 [What Is FDM 3D Printing? – Simply Explained | All3DP](https://all3dp.com/2/fused-deposition-modeling-fdm-3d-printing-simply-explained/)
 
 ## which ender 3 
 Ender 3 has a lot of variations and to pick one that suits your needs was a task in itself. Especially if you are buying your first 3D printer then jumping blind and buying any variation of Ender 3 and later knowing that certain features or convenience options are available in another higher priced ender 3 it was better to spend some time understanding the differences between these now. 
 
-the versions 
+The versions 
 - Ender3
 - Ender3 PRO
 - Ender3 V2
@@ -21,7 +21,8 @@ the versions
 - Ender3 S1
 - Ender3 S1 PRO
 
-there are also max and plus versions which I have totally skipped as I wanted to stick with standard size of 220x220x250mm (this is the build volume)
+There are also max and plus versions which I have totally skipped as I wanted to stick with standard size of 220x220x250mm (this is the build volume)
+
 NOTE: here the S1 PRO has build area of 220x220x270mm 
 
 ## why I went with S1 PRO
