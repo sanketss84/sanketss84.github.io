@@ -3,9 +3,9 @@ Author: Sanket Sonavane
 Publish Date: 2023-02-13 
 Last Updated: 2023-03-08
 
-NOTE: This article is a work in progress
+> NOTE: This article is a work in progress
 
-I personally own a Creality Ender-3 S1 Pro and this is my only printer. 
+I personally own a Creality Ender3 S1 PRO and this is my only printer.
 
 ## 3d printers
 
@@ -32,16 +32,11 @@ these are some of contributors without whom 3d printing would not be complete
 - [biqu-design - biqu equipment](https://biqu.equipment/)
 
 ## firmwares
-- marlin 
-    - [Marlin Firmware](https://marlinfw.org/)
-- klipper 
-    - [Klipper documentation](https://www.klipper3d.org/)
-- professional firmware 
-    - [mriscoc/Ender3V2S1: optimized for Ender3 V2/S1 3D printers.](https://github.com/mriscoc/Ender3V2S1)
-- th3d 
-    - [th3dstudio - TH3D Studio LLC](https://github.com/th3dstudio)
-- jyers 
-    - [Jyers/Marlin:](https://github.com/Jyers/Marlin)
+- [Marlin Firmware](https://marlinfw.org/)
+- [Klipper documentation](https://www.klipper3d.org/)
+- [mriscoc/Ender3V2S1: optimized for Ender3 V2/S1 3D printers.](https://github.com/mriscoc/Ender3V2S1)
+- [th3dstudio - TH3D Studio LLC](https://github.com/th3dstudio)
+- [Jyers/Marlin:](https://github.com/Jyers/Marlin)
 
 
 ## raspberry pi and 3dp
@@ -60,17 +55,14 @@ these are some of contributors without whom 3d printing would not be complete
 - octoprint
     - [octoprint](https://octoprint.org/)
 - for klipper 
-    - mainsail
-        - [mainsail](https://docs.mainsail.xyz/)
-    - fluidd
-        - [fluidd](https://docs.fluidd.xyz/)
+    - [mainsail](https://docs.mainsail.xyz/)
+    - [fluidd](https://docs.fluidd.xyz/)
 
 ## slicers
-
-- ultimaker cura
-    - [ultimaker cura](https://support.makerbot.com/s/topic/0to5b000000q4utgac/ultimaker-cura)
-- prusa slicer - slic3r 
-    - [prusaslicer - prusa knowledge base](https://help.prusa3d.com/category/prusaslicer_204) 
+- [ultimaker cura](https://support.makerbot.com/s/topic/0to5b000000q4utgac/ultimaker-cura)
+- [prusaslicer - prusa knowledge base](https://help.prusa3d.com/category/prusaslicer_204) 
+- [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer)
+- [simplify3d software](https://www.simplify3d.com/)
 
 ## 3d parametric modeler
 - [autodesk fusion 360 ](https://www.autodesk.com/products/fusion-360/)
@@ -127,7 +119,7 @@ manufacturers
 - [prusa 3d by josef prusa](https://www.youtube.com/@prusa3d/videos)
 - [voron design](https://www.youtube.com/@russiancatfood/videos) 
 - [rat rig](https://www.youtube.com/@ratrighardware/videos)
-- [zerig](https://zerog.one/) , [zerog docs](https://docs.zerog.one/)]
+- [zerig](https://zerog.one/) , [zerog docs](https://docs.zerog.one/)
 - [bigtreetech](https://bigtree-tech.com/)
 - [biqu equipment - bigtreetech](https://biqu.equipment/) 
 - [fysetc](https://www.fysetc.com/) 
