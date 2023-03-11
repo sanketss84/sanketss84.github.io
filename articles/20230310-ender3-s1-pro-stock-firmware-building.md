@@ -23,8 +23,8 @@ the marlin docs covers this development setup very well.
 once you have this you are all set to build marlin locally.
 
 ## few things to know before you build the stock firmware
-- whats your current firmware 
-- whats your controller board , mines STM32F401
+- what's your current firmware 
+- what's your controller board , mines STM32F401
 
 these things need to be checked if set correctly or need to be tweaked in the firmware code before you flash this to your printer and risk bricking it.
 
@@ -37,41 +37,41 @@ Created a fork of the creality branch and add a few of my own branches for worki
     - to add fixes by other users and commit them to my forked branch.
     - added fixes by pethical and kamoteshake which fixes the build issues
     - [Pull requests · CrealityOfficial/Ender-3S1](https://github.com/CrealityOfficial/Ender-3S1/pulls)
-- `s1_pro_sanket`  created from creality official `s1_pro`
+- `s1_pro_sanket`  created from Creality official `s1_pro`
     - to add fixes by other users and commit them to my forked branch.
     - building for STM32F401 vs stock which has this config for STM32F103
-        - refer this commit to make the nevessary changes [Environment for STM32F401 · Pethical/Ender-3S1@2230852](https://github.com/Pethical/Ender-3S1/commit/22308521e74d386ac8c9e25f83337c9c045fb4a6) 
+        - refer this commit to make the necessary changes [Environment for STM32F401 · Pethical/Ender-3S1@2230852](https://github.com/Pethical/Ender-3S1/commit/22308521e74d386ac8c9e25f83337c9c045fb4a6) 
     - add my own tweaks and features 
         - refer these branches for changes that can be accomodated 
             - [Commits · Pethical/Ender-3S1](https://github.com/Pethical/Ender-3S1/commits/s1_pro_pethical)
             - [Commits · kamoteshake/Ender-3S1](https://github.com/kamoteshake/Ender-3S1/commits/s1_plus)
-        - update the bed leveling grid to 6x6 or 5x5 from stock 4x4 for more accurate mesh creation.
+        - update the bed levelling grid to 6x6 or 5x5 from stock 4x4 for more accurate mesh creation.
 
 my github branches
 - [sanketss84/Ender-3S1 at s1_pro](https://github.com/sanketss84/Ender-3S1/tree/s1_pro)
 - [sanketss84/Ender-3S1 at s1_pro_fixes](https://github.com/sanketss84/Ender-3S1/tree/s1_pro_fixes)
 - [sanketss84/Ender-3S1 at s1_pro_sanket](https://github.com/sanketss84/Ender-3S1/tree/s1_pro_sanket)
 
-so after adding in all the fixes and commiting them I am able to build stock firmware successfully.
+so after adding in all the fixes and committing them I am able to build stock firmware successfully.
 
 ## still need to figure out
-While I have so far figured out how to generate firmware for the controller board I havent figured out how to 
+While I have so far figured out how to generate firmware for the controller board I haven't figured out how to 
 
-- build firwamre for stock touch display.
+- build firmware for stock touch display.
 - build firmware for alternate display should I want to swap them on my s1 pro.
-    - the ender 3 s1 diplay which was a nice color display but not touch screen and had a knob.
+    - the ender 3 s1 display which was a nice color display but not touch screen and had a knob.
     - the classic 12864 display for ender 3 with a knob. 
     - bigtreetech 12864 display. 
-    - the different diplays might unlock more features which are still not available on the touch display
+    - the different displays might unlock more features which are still not available on the touch display
 - build firmware for alternate touch probes.
-- upgrade the entire contoller board if need be and build firmware for it.
+- upgrade the entire controller board if need be and build firmware for it.
 
 these are some cool things that I need to explore for future upgrades 
 
 ## references
 
 reddit
-- [these are pictures of the bed leveling at the two opposite ends of the lefts side of the bed The probe location in the second pic is much farther away from the edge. Is this normal? : Ender3S1](https://www.reddit.com/r/Ender3S1/comments/110zqqa/these_are_pictures_of_the_bed_leveling_at_the_two/)
+- [these are pictures of the bed levelling at the two opposite ends of the lefts side of the bed The probe location in the second pic is much farther away from the edge. Is this normal? : Ender3S1](https://www.reddit.com/r/Ender3S1/comments/110zqqa/these_are_pictures_of_the_bed_leveling_at_the_two/)
   - here I had a discussion with reddit user kamoteshake about building stock firmware.
 
 youtube
