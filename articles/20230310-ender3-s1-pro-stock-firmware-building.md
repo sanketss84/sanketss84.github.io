@@ -4,6 +4,11 @@ Author: Sanket Sonavane
 Publish Date: 2023-03-10   
 Last Updated: 2023-03-11  
 
+> NOTE:  
+> This is a live article i.e. as and when new information is observed or found it will be  
+> 1. appended with time stamps to the end  
+> 2. corrected in place, if earlier documentation was incorrect  
+  
 The Ender 3 S1 PRO is based on Marlin and its source code is available on github , note you need to change to the `s1_pro` branch.
 [CrealityOfficial/Ender-3S1 at s1_pro](https://github.com/CrealityOfficial/Ender-3S1/tree/s1_pro) 
 

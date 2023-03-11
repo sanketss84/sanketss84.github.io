@@ -3,7 +3,10 @@ Author: Sanket Sonavane
 Publish Date: 2023-02-02   
 Last Updated: 2023-03-08
 
-> NOTE: This article is a work in progress 
+> NOTE:  
+> This is a live article i.e. as and when new information is observed or found it will be  
+> 1. appended with time stamps to the end  
+> 2. corrected in place, if earlier documentation was incorrect  
 
 While choosing a fdm printer (or a printer where you load a filament like PLA, PETG, ABS etc. ) to make prints the first printer you spot online is an Ender 3 by Creality. Ender 3 is synonymous with 3D printing and has a massive community around it and thats why its the first printer for many new to 3D printing. While venturing into a new hobby knowing that there is a huge community to back it, gives you a lot of comfort as support can be faster over reddit or discord chats. Answers to most common problems are a search or community talk away. 
 

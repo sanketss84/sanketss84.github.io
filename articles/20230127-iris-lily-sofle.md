@@ -3,8 +3,6 @@ Author: Sanket Sonavane
 Publish Date: 2023-01-27  
 Last Updated: 2023-01-27  
 
-NOTE: This article is a work in progress and has my latest thoughts documented.
-
 ## summary
 sofle v2 :P
 

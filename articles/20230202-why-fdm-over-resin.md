@@ -2,9 +2,7 @@
 Author: Sanket Sonavane   
 Publish Date: 2023-02-02   
 Last Updated: 2023-03-08  
-
-> NOTE: This article is a work in progress  
-
+  
 I will keep things super simple while explaining this 
 
 ## fdm printing 
