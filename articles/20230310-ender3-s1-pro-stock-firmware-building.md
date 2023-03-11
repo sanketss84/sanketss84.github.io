@@ -2,7 +2,7 @@
 
 Author: Sanket Sonavane   
 Publish Date: 2023-03-10   
-Last Updated: 2023-03-10  
+Last Updated: 2023-03-11  
 
 The Ender 3 S1 PRO is based on Marlin and its source code is available on github , note you need to change to the `s1_pro` branch.
 [CrealityOfficial/Ender-3S1 at s1_pro](https://github.com/CrealityOfficial/Ender-3S1/tree/s1_pro) 
@@ -37,17 +37,20 @@ Created a fork of the creality branch and add a few of my own branches for worki
     - to add fixes by other users and commit them to my forked branch.
     - added fixes by pethical and kamoteshake which fixes the build issues
     - [Pull requests · CrealityOfficial/Ender-3S1](https://github.com/CrealityOfficial/Ender-3S1/pulls)
-- `s1_pro_sanket`  created from `s1_pro`
+- `s1_pro_sanket`  created from creality official `s1_pro`
     - to add fixes by other users and commit them to my forked branch.
     - building for STM32F401 vs stock which has this config for STM32F103
         - refer this commit to make the nevessary changes [Environment for STM32F401 · Pethical/Ender-3S1@2230852](https://github.com/Pethical/Ender-3S1/commit/22308521e74d386ac8c9e25f83337c9c045fb4a6) 
     - add my own tweaks and features 
-        - refer this branch for changes that can be accomodated [Commits · Pethical/Ender-3S1](https://github.com/Pethical/Ender-3S1/commits/s1_pro_pethical)
-        - update the bed leveling grid to 6x6 or 5x5 from stock 4x4 for more accurate mesh creation
+        - refer these branches for changes that can be accomodated 
+            - [Commits · Pethical/Ender-3S1](https://github.com/Pethical/Ender-3S1/commits/s1_pro_pethical)
+            - [Commits · kamoteshake/Ender-3S1](https://github.com/kamoteshake/Ender-3S1/commits/s1_plus)
+        - update the bed leveling grid to 6x6 or 5x5 from stock 4x4 for more accurate mesh creation.
 
-[sanketss84/Ender-3S1 at s1_pro](https://github.com/sanketss84/Ender-3S1/tree/s1_pro)
-[sanketss84/Ender-3S1 at s1_pro_fixes](https://github.com/sanketss84/Ender-3S1/tree/s1_pro_fixes)
-[sanketss84/Ender-3S1 at s1_pro_sanket](https://github.com/sanketss84/Ender-3S1/tree/s1_pro_sanket)
+my github branches
+- [sanketss84/Ender-3S1 at s1_pro](https://github.com/sanketss84/Ender-3S1/tree/s1_pro)
+- [sanketss84/Ender-3S1 at s1_pro_fixes](https://github.com/sanketss84/Ender-3S1/tree/s1_pro_fixes)
+- [sanketss84/Ender-3S1 at s1_pro_sanket](https://github.com/sanketss84/Ender-3S1/tree/s1_pro_sanket)
 
 so after adding in all the fixes and commiting them I am able to build stock firmware successfully.
 
