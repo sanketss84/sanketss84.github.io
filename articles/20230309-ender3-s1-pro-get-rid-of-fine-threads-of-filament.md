@@ -9,13 +9,13 @@ Last Updated: 2023-03-11
 > 1. appended with time stamps to the end  
 > 2. corrected in place, if earlier documentation was incorrect  
 
-The Ender 3 S1 PRO is a fine printer but there is so much to learn about 3D Printing to get the perfect print and to find answers you need to calibrate it well. My printer was printing well layer by layer but it was leaving this fine threads 
+The Ender 3 S1 PRO is a fine printer but there is so much to learn about 3D Printing to get the perfect print and to find answers you need to calibrate it well. My printer was printing just fine, layer by layer but it was leaving this fine threads. while they can be easily removed by hand but I wanted to find ways I could handle this with slicer options and so I decided to dig more. 
 
 ![](/assets/img/s1-pro/s1pro-fine-threads-query-sm.jpg)
 
 ## retraction test findings
-I have documented my retraction test findings here [ender3 s1 pro - findings - retraction tests](/articles/20230309-ender3-s1-pro-retraction-test) in great detail with summary of suggestions from various communities and will contine to add all my findings here.
-
+When its anything related to stringing or threads in prints the first place that we should look into is retraction settings and thats where I started.
+I have documented my retraction test findings here [ender3 s1 pro - findings - retraction tests](/articles/20230309-ender3-s1-pro-retraction-test) in great detail with summary of suggestions from various communities and will continue to add all my findings in the article.
 
 ## references
 

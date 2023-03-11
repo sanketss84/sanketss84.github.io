@@ -24,7 +24,7 @@ Last Updated: 2023-03-11
 ## approaches to try 
 these are summary of suggestions which I have received from various communities on discord and reddit
 
-- [x] retraction speed 25mm/s
+- [x] &nbsp; retraction speed 25mm/s
 - [x] retraction speed 50mm/s
 - [x] retraction distance 1.0mm
 - [x] retraction distance 1.5mm and retraction speed 30mm/s
