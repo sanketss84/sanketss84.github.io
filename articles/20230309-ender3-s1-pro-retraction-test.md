@@ -73,42 +73,42 @@ Quoting a few points from the same article
 > Recommended Ender 3 retraction speed: 50 mm/s, decreasing in increments of 5 mm/s if filament grinding occurs
 
 ## retraction calibration tool
-[Retraction Calibration Tool](http://retractioncalibration.com/) this is an intresting test to help narrow down the retraction settings.
+[Retraction Calibration Tool](http://retractioncalibration.com/) this is an interesting test to help narrow down the retraction settings.
 
 This is how I set the two tests up
 ![](/assets/img/s1-pro/retraction-calibration/s1pro-retraction-calibration-cnxsoft.png)
 
 ### attempt 1
 
-top
+top  
 ![top](/assets/img/s1-pro/retraction-calibration/attempt1/top_med.jpg)
 
-top-2
+top-2  
 ![top-2](/assets/img/s1-pro/retraction-calibration/attempt1/top-2_med.jpg)
 
-front
+front  
 ![front](/assets/img/s1-pro/retraction-calibration/attempt1/front_med.jpg)
 
-right
+right  
 ![right](/assets/img/s1-pro/retraction-calibration/attempt1/right_med.jpg)
 
-back
+back  
 ![back](/assets/img/s1-pro/retraction-calibration/attempt1/back_med.jpg)
 
-left
+left  
 ![left](/assets/img/s1-pro/retraction-calibration/attempt1/left_med.jpg)
 
 
-front-right
+front-right  
 ![front-right](/assets/img/s1-pro/retraction-calibration/attempt1/front-right_med.jpg)
 
-front-left
+front-left  
 ![front-left](/assets/img/s1-pro/retraction-calibration/attempt1/front-left_med.jpg)
 
-back-right
+back-right  
 ![back-right](/assets/img/s1-pro/retraction-calibration/attempt1/back-right_med.jpg)
 
-back-left
+back-left  
 ![back-left](/assets/img/s1-pro/retraction-calibration/attempt1/back-left_med.jpg)
 
 
@@ -120,39 +120,39 @@ observations
 
 ### attempt 2
 
-top
+top  
 ![top](/assets/img/s1-pro/retraction-calibration/attempt2/top_med.jpg)
 
-front
+front  
 ![front](/assets/img/s1-pro/retraction-calibration/attempt2/front_med.jpg)
 
-right
+right  
 ![right](/assets/img/s1-pro/retraction-calibration/attempt2/right_med.jpg)
 
-back
+back  
 ![back](/assets/img/s1-pro/retraction-calibration/attempt2/back_med.jpg)
 
-left
+left  
 ![left](/assets/img/s1-pro/retraction-calibration/attempt2/left_med.jpg)
 
 
-front-threads
+front-threads  
 ![○front-threads](/assets/img/s1-pro/retraction-calibration/attempt2/front-threads_med.jpg)
 
-right-threads
+right-threads  
 ![○right-threads](/assets/img/s1-pro/retraction-calibration/attempt2/right-threads_med.jpg)
 
-back-threads
+back-threads  
 ![○back-threads](/assets/img/s1-pro/retraction-calibration/attempt2/back-threads_med.jpg)
 
-left-threads
+left-threads  
 ![○left-threads](/assets/img/s1-pro/retraction-calibration/attempt2/left-threads_med.jpg)
 
 
-front-right
+front-right  
 ![front-right](/assets/img/s1-pro/retraction-calibration/attempt2/front-right_med.jpg)
 
-back-left
+back-left  
 ![back-left](/assets/img/s1-pro/retraction-calibration/attempt2/back-left_med.jpg)
 
 
