@@ -157,11 +157,11 @@ back-left
 
 
 observations
-- back ignore retraction distance 1.3 to 1.6 as strings observed for.
-- left ignore retraction distance 1.7 to 2.0mm, while there are less strings but they are still there.
+- for back side, ignore retraction distance 1.3 to 1.6 as fine threads observed on the outside as well on inside.
+- for left side, ignore retraction distance 1.7 to 2.0mm, while there are less of the fine threads but they are still there.
 - as the tower height increases more of the fine threads are observed 
-    - so for all sides with retraction speed for 10mm/s there is less of those fine threads
-    - this threads are visible on affected sides as we start going upwards in retraction speed 20, 30, 40, 50mm/s tests
+    - so for all sides with retraction speed for 10mm/s there is less of those fine threads.
+    - these threads are visible on affected sides as we start going upwards in retraction speed 20, 30, 40, 50mm/s tests    
 - after inspecting all sides and individual walls settled for retraction distance 0.9mm and retraction speed 40mm the 0.8mm is also good but 0.9mm looks better
 
 
