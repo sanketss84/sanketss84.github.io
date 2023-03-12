@@ -2,7 +2,7 @@
 
 Author: Sanket Sonavane   
 Publish Date: 2023-03-11   
-Last Updated: 2023-03-11  
+Last Updated: 2023-03-12
 
 > NOTE:  
 > This is a live article i.e. as and when new information is observed or found it will be  
@@ -12,6 +12,12 @@ Last Updated: 2023-03-11
 ## what I am using
 - Ender 3 S1 Pro on stock marlin firmware 
 - Cura 522 as slicer of choice
+
+## quick summary
+after a lot of tests and trying to find the best value so far I have found that for Ender 3 S1 PRO with esun PLA+ filament
+- retraction distance 0.9mm
+- retraction speed 40 and 50 mm/s produced great results 
+- so will keep it at 40mm/s for now
 
 ## common settings for all retraction tests
 - 0.3 Layer height was used for all
@@ -28,12 +34,12 @@ these are summary of suggestions which I have received from various communities 
 - [x] retraction speed 50mm/s
 - [x] retraction distance 1.0mm
 - [x] retraction distance 1.5mm and retraction speed 30mm/s
-- [ ] check out teaching tech's calibration page
-    - [ ] teaching tech retraction test
-- [ ] check [Retraction Calibration Tool](http://retractioncalibration.com/)
+- [x] check [Retraction Calibration Tool](http://retractioncalibration.com/)
 - [ ] slowing down fan speed
 - [ ] check combing options
 - [ ] adding wipe distance
+- [ ] check out teaching tech's calibration page
+    - [ ] teaching tech retraction test
 
 ## test results 
 
@@ -66,10 +72,107 @@ Quoting a few points from the same article
 
 > Recommended Ender 3 retraction speed: 50 mm/s, decreasing in increments of 5 mm/s if filament grinding occurs
 
+## retraction calibration tool
+[Retraction Calibration Tool](http://retractioncalibration.com/) this is an intresting test to help narrow down the retraction settings.
+
+This is how I set the two tests up
+![](/assets/img/s1-pro/retraction-calibration/s1pro-retraction-calibration-cnxsoft.png)
+
+### attempt 1
+
+top
+![top](/assets/img/s1-pro/retraction-calibration/attempt1/top_med.jpg)
+
+top-2
+![top-2](/assets/img/s1-pro/retraction-calibration/attempt1/top-2_med.jpg)
+
+front
+![front](/assets/img/s1-pro/retraction-calibration/attempt1/front_med.jpg)
+
+right
+![right](/assets/img/s1-pro/retraction-calibration/attempt1/right_med.jpg)
+
+back
+![back](/assets/img/s1-pro/retraction-calibration/attempt1/back_med.jpg)
+
+left
+![left](/assets/img/s1-pro/retraction-calibration/attempt1/left_med.jpg)
+
+
+front-right
+![front-right](/assets/img/s1-pro/retraction-calibration/attempt1/front-right_med.jpg)
+
+front-left
+![front-left](/assets/img/s1-pro/retraction-calibration/attempt1/front-left_med.jpg)
+
+back-right
+![back-right](/assets/img/s1-pro/retraction-calibration/attempt1/back-right_med.jpg)
+
+back-left
+![back-left](/assets/img/s1-pro/retraction-calibration/attempt1/back-left_med.jpg)
+
+
+observations 
+- anything above retraction distance of 2.25mm was producing stringing so skip those for next tests
+- as the tower height increases more of the fine threads are observed
+- walls have less gap from retraction distance 1.0mm onwards
+- as layer height increases the fine threads start increasing so to test this hypothesis I need to increase number of layers for each retraction speed from 25 to 50 layers and see if this behaviour is observed
+
+### attempt 2
+
+top
+![top](/assets/img/s1-pro/retraction-calibration/attempt2/top_med.jpg)
+
+front
+![front](/assets/img/s1-pro/retraction-calibration/attempt2/front_med.jpg)
+
+right
+![right](/assets/img/s1-pro/retraction-calibration/attempt2/right_med.jpg)
+
+back
+![back](/assets/img/s1-pro/retraction-calibration/attempt2/back_med.jpg)
+
+left
+![left](/assets/img/s1-pro/retraction-calibration/attempt2/left_med.jpg)
+
+
+front-threads
+![○front-threads](/assets/img/s1-pro/retraction-calibration/attempt2/front-threads_med.jpg)
+
+right-threads
+![○right-threads](/assets/img/s1-pro/retraction-calibration/attempt2/right-threads_med.jpg)
+
+back-threads
+![○back-threads](/assets/img/s1-pro/retraction-calibration/attempt2/back-threads_med.jpg)
+
+left-threads
+![○left-threads](/assets/img/s1-pro/retraction-calibration/attempt2/left-threads_med.jpg)
+
+
+front-right
+![front-right](/assets/img/s1-pro/retraction-calibration/attempt2/front-right_med.jpg)
+
+back-left
+![back-left](/assets/img/s1-pro/retraction-calibration/attempt2/back-left_med.jpg)
+
+
+observations
+- back ignore retraction distance 1.3 to 1.6 as strings observed for.
+- left ignore retraction distance 1.7 to 2.0mm, while there are less strings but they are still there.
+- as the tower height increases more of the fine threads are observed 
+    - so for all sides with retraction speed for 10mm/s there is less of those fine threads
+    - this threads are visible on affected sides as we start going upwards in retraction speed 20, 30, 40, 50mm/s tests
+- after inspecting all sides and individual walls settled for retraction distance 0.9mm and retraction speed 40mm the 0.8mm is also good but 0.9mm looks better
+
 
 ## references
 reddit 
 [S1 Pro how to get rid of these fine threads that occur during prints : Ender3S1](https://www.reddit.com/r/Ender3S1/comments/11moh4t/s1_pro_how_to_get_rid_of_these_fine_threads_that/)
+
+retraction calibration tool
+- [Retraction Calibration Tool](http://retractioncalibration.com/)
+- [3D Printer Retraction Calibration Vol II - Calibration Generator Program Release - CNX Software](https://www.cnx-software.com/2020/07/08/3d-printer-retraction-calibration-vol-ii-calibration-generator-program-release/#3d-printer-retraction-calibration-vol-ii)
+- [How to Easily Calibrate Retraction in 3D Printers - CNX Software](https://www.cnx-software.com/2019/09/05/how-to-easily-calibrate-retraction-in-3d-printers/)
 
 articles
 - [The best Ender 3 retraction settings](https://www.wevolver.com/article/the-best-ender-3-retraction-settings) 
