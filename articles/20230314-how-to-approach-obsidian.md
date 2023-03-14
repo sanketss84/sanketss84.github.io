@@ -17,10 +17,7 @@ I see a lot of people on reddit `r/ObsidianMD` being overwhelmed when they start
 - roam research 
 - evernote
 - sublime text 
-
 etc...
-
-
 
 ## what made me shift to obsidian from other note taking tools
 
@@ -66,7 +63,7 @@ to learn more on templates check following links
 > note: there is an obsidian community plugin called templater which is not to be confused with obsidian templates. templater is advanced version of templates and provides far more complex templating but we can start with obsidian templates as it also does quite a lot.
 
 ## canvas
-while this is new functionality that was added to obsidian this forms a core functionality of obsidian. Imagine having a huge open canvas where you could just organize information and notes and link them with arrows. just like how detectives in moves lays out clues and links people on the case. obsidian canvas is a brilliant feature which was added to obsidian and you can learn more about it here.
+while this is relatively new functionality that was added to obsidian this forms an important part of the obsidian experience. Imagine having a huge open canvas where you could just organize information and notes, images, other media and link them with arrows. just like how detectives in movies/tv-series lays out clues and links people on the case he is investigating. obsidian canvas is a brilliant feature which was added to obsidian and you can learn more about it here.
 
 - official docs [Obsidian Canvas](https://obsidian.md/canvas)
 - Nick Milo [Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=vLBd_ADeKIw) 
