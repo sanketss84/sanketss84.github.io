@@ -24,8 +24,11 @@ So now that you have two dxf files , open one dxf in freecad and import another 
 
 repeat the same for bottom plate and give these files to your laser acrylic service and you have your top and bottom plate with plate holes.
 
-EDIT:
+**EDIT:**
 Seems like F.Mask might generate larger holes than needed so I ended up manually creating those holes (circles) the size of M2 screws on the Edge.Cut layer for top and bottom plate, roughly 2.2mm in diameter. Will get this acrylic cut done and see if all this worked out. will update here.
+
+**UPDATE:**
+It worked, the manually generated 2.2mm holes worked perfectly. also ensure the key switch squares are 14x14mm and you should be fine. freecad has a measurement tool which helps you measure the distance between two ends so you can measure the diameter of the holes and distance between opposite edges or a square.
 
 ## Further notes
 While this merging of multiple dxf into a single dxf should be part of KiCAD but its still not there in it, I am a beginner with KiCAD and atleast I could not find this so thankfully FreeCAD was there to rescue.
