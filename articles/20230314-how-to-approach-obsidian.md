@@ -38,7 +38,7 @@ check here for more
 - [Obsidian Markdown Reference - Markdown Guide](https://www.markdownguide.org/tools/obsidian/) 
 
 ### local storage
-local storage is the absolute essential and I cant emphasise more why this is super important as with other apps like notion, roam, evernote you have no control over your notes and they are stored somewhere online in some database which you as an end user have no control. if the company decides to shut its operation and you have 1000's of notes in there propriety structure and propriety organization systems that even if you manage to export locally you would never get that same experience and the connect between the documents would be lost. that,s not the vase with obsidian , markdown is a great format and even the most basic text editor can open markdown files and you can understand your information clearly and you always have your notes to yourself and private.
+local storage is the absolute essential and I cant emphasise more why this is super important as with other apps like notion, roam, evernote you have no control over your notes and they are stored somewhere online in some database which you as an end user have no control. if the company decides to shut its operation and you have 1000's of notes in there propriety structure and propriety organization systems that even if you manage to export locally you would never get that same experience and the connect between the documents would be lost. that's not the case with obsidian , markdown is a great format and even the most basic text editor can open markdown files and you can understand your information clearly and you always have your notes to yourself and private.
 
 ### bi-directional linking
 bi-directional linking this is what sets obsidian apart from any normal text editor which can also work with markdown files. while we traditionally organize files in folders but what if we want to link one file in another file just like we link articles on the web using http links. obsidian allows you to link your files inside a vault from one to another using `[[file-name]]` syntax. just like how your brain links one chunk of information to another its like a mesh or a graph. this bi-directional linking is what made obsidian so awesome. just typing double square brackets and typing the file name you want to link obsidian will help you auto complete file names in the same vault. lets say you have a note called `finance` and you want to link this file in your `annual budget` note just type `[[fin..` and obsidian would auto suggest various notes starting with `fin` and help your quickly link your note. this is what linking your thinking is all about. 
@@ -67,7 +67,7 @@ while this is relatively new functionality that was added to obsidian this forms
 
 - official docs [Obsidian Canvas](https://obsidian.md/canvas)
 - Nick Milo [Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=vLBd_ADeKIw) 
-- Get Productive [Obsidian Canvas: Getting Started - YouTube](https://www.youtube.com/watch?v=z2QpEjMvPlo
+- Get Productive [Obsidian Canvas: Getting Started - YouTube](https://www.youtube.com/watch?v=z2QpEjMvPlo)
 - Vicky Zhao [Mind Mapping in Obsidian Canvas Tutorial - YouTube](https://www.youtube.com/watch?v=eHI-Szjpafk)
 - Nicole [Obsidian Canvas core plugin (new in v1.1.0) - YouTube](https://www.youtube.com/watch?v=rPescoJzcFA) 
 
@@ -147,8 +147,8 @@ having year then month then date will auto sort files by date.
 reddit
 - [r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/)
 
-youtubers
-these are some of the youtuber I have followed for improving my know how of obsidian and they have been of great help but I would still suggest to check them later, first build something of your own and if you start reaching limitations in your system then check here on how you can expand on your own knowledge of obsidian and take it further.
+youtubers  
+these are some of the youtuber I have followed for improving my know how of obsidian. they have been of great help but I would still suggest to check them later. first build something of your own and if you start reaching limitations in your system then check here. it will help you expand on your own knowledge of obsidian and take it further.
 - [Linking Your Thinking - YouTube](https://www.youtube.com/@linkingyourthinking/videos)
   - Nick Milo has been the person whom I learned obsidian from when I started my journey
 - [FromSergio - YouTube](https://www.youtube.com/@FromSergio/videos)
