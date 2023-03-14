@@ -14,10 +14,12 @@ Last Updated: 2023-03-12
 - Cura 522 as slicer of choice
 
 ## quick summary
-after a lot of tests and trying to find the best value so far I have found that for Ender 3 S1 PRO with esun PLA+ filament
-- retraction distance 0.9mm
-- retraction speed 40 and 50 mm/s produced great results 
-- so will keep it at 40mm/s for now
+after a lot of tests and trying to find the best value so far I have found that for Ender 3 S1 PRO with esun PLA+ filament produced best results 
+- retraction distance 0.8mm
+- retraction speed 40 and 50 mm/s 
+- fan speed 100% 
+
+I have not been able to better the fine threads much despite all tests 0.7 and 0.8mm are sweet spots.
 
 ## common settings for all retraction tests
 - 0.3 Layer height was used for all
@@ -73,12 +75,15 @@ Quoting a few points from the same article
 > Recommended Ender 3 retraction speed: 50 mm/s, decreasing in increments of 5 mm/s if filament grinding occurs
 
 ## retraction calibration tool
+2023-03-12
+
 [Retraction Calibration Tool](http://retractioncalibration.com/) this is an interesting test to help narrow down the retraction settings.
 
 This is how I set the two tests up
 ![](/assets/img/s1-pro/retraction-calibration/s1pro-retraction-calibration-cnxsoft.png)
 
 ### attempt 1
+2023-03-12
 
 top  
 ![top](/assets/img/s1-pro/retraction-calibration/attempt1/top_med.jpg)
@@ -119,6 +124,7 @@ observations
 - as layer height increases the fine threads start increasing so to test this hypothesis I need to increase number of layers for each retraction speed from 25 to 50 layers and see if this behaviour is observed
 
 ### attempt 2
+2023-03-12
 
 top  
 ![top](/assets/img/s1-pro/retraction-calibration/attempt2/top_med.jpg)
@@ -162,12 +168,37 @@ observations
 - as the tower height increases more of the fine threads are observed 
     - so for all sides with retraction speed for 10mm/s there is less of those fine threads.
     - these threads are visible on affected sides as we start going upwards in retraction speed 20, 30, 40, 50mm/s tests    
-- after inspecting all sides and individual walls settled for retraction distance 0.9mm and retraction speed 40mm the 0.8mm is also good but 0.9mm looks better
+- after inspecting all sides and individual walls settled for retraction distance 0.9mm and retraction speed 40mm the 0.8mm is also good but 0.9mm looks better. 
+- however actual test prints with 0.9 were not that good so reverted to 0.8mm
+
+### normal retraction tower test
+to test all the results of the above test here is the output of 
+
+retraction distance  0.8mm retraction speed 40mm/s fan speed 100% and this looks good. 
+
+[IMAGE ADD] 
+
+retraction distance  0.7mm retraction speed 40mm/s fan speed 100% and this looks good as well. 
+
+[IMAGE ADD]
+
+## fan speed tests
+2023-03-12
+
+### attempt 1
+retraction distance at 0.7mm and speeds at 40mm/s for this test
+
+- testing at 50% ❌
+[IMAGE ADD]
+    - result: had far more fine threads than fan running at 100%
+
+- testing at 70% 
+[IMAGE ADD]
 
 
 ## references
 reddit 
-[S1 Pro how to get rid of these fine threads that occur during prints : Ender3S1](https://www.reddit.com/r/Ender3S1/comments/11moh4t/s1_pro_how_to_get_rid_of_these_fine_threads_that/)
+- [S1 Pro how to get rid of these fine threads that occur during prints : Ender3S1](https://www.reddit.com/r/Ender3S1/comments/11moh4t/s1_pro_how_to_get_rid_of_these_fine_threads_that/)
 
 retraction calibration tool
 - [Retraction Calibration Tool](http://retractioncalibration.com/)
