@@ -4,6 +4,12 @@ Author: Sanket Sonavane
 Publish Date: 2023-03-14   
 Last Updated: 2023-03-14  
 
+> NOTE:  
+> This is a live article i.e. as and when new information is observed or found it will be  
+> 1. appended with time stamps to the end  
+> 2. corrected in place, if earlier documentation was incorrect  
+ 
+
 I see a lot of people on reddit `r/ObsidianMD` being overwhelmed when they start using obsidian. I can understand the amount of community plugins and various approaches and analogies people are sharing on youtube on what's the best way to use obsidian can easily confuse someone who is just starting there journey with obsidian. I have been following obsidian from its inception when it just began as a note taking app and hence my knowledge of plugins and note taking as a whole has slowy grown over the years. 
 
 ## tools I was using earlier 
@@ -22,16 +28,17 @@ etc...
 - local storage
 - bi-directional linking
 - templates
+- obsidian canvas
 
 ### markdown format
 markdown format is really versatile for taking notes and allows great formatting options like multilevel headers, lists, links, images, tables this is all the major formatting options that we need while writing our notes.
 
 check here for more
 - [Format your notes - Obsidian Help](https://help.obsidian.md/How+to/Format+your+notes) 
-- [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/) 
-- [Extended Syntax | Markdown Guide](https://www.markdownguide.org/extended-syntax/) 
-- [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/) 
-- [Obsidian Markdown Reference | Markdown Guide](https://www.markdownguide.org/tools/obsidian/) 
+- [Basic Syntax - Markdown Guide](https://www.markdownguide.org/basic-syntax/) 
+- [Extended Syntax - Markdown Guide](https://www.markdownguide.org/extended-syntax/) 
+- [Markdown Cheat Sheet - Markdown Guide](https://www.markdownguide.org/cheat-sheet/) 
+- [Obsidian Markdown Reference - Markdown Guide](https://www.markdownguide.org/tools/obsidian/) 
 
 ### local storage
 local storage is the absolute essential and I cant emphasise more why this is super important as with other apps like notion, roam, evernote you have no control over your notes and they are stored somewhere online in some database which you as an end user have no control. if the company decides to shut its operation and you have 1000's of notes in there propriety structure and propriety organization systems that even if you manage to export locally you would never get that same experience and the connect between the documents would be lost. that,s not the vase with obsidian , markdown is a great format and even the most basic text editor can open markdown files and you can understand your information clearly and you always have your notes to yourself and private.
@@ -43,7 +50,7 @@ learn more on linking notes here
 [Link notes - Obsidian Help](https://help.obsidian.md/Getting+started/Link+notes)
 
 ### templates
-templates is one more powerful feature which can help you a lot. lets say you create a note and for every note you create your add in a specific text snippet or metadata up top.
+templates is one more powerful feature which can help you a lot. lets say you create a note and for every note you create your add in a specific text snippet or metadata up top and you manually type this every single time then with the help of obsidian templates you can automate this.  
 
 for example  
 
@@ -52,10 +59,20 @@ title: some-note
 created: 2023-03-14
 ```
 
-and your manually type this every single time then with the help of obsidian templates you can automate this.
 to learn more on templates check following links 
 - [Templates - Obsidian Help](https://help.obsidian.md/Plugins/Templates)
 - [Ultimate Guide to Obsidian Templates (with Examples) - Face Dragons](https://facedragons.com/productivity/obsidian-templates-with-examples/) 
+
+> note: there is an obsidian community plugin called templater which is not to be confused with obsidian templates. templater is advanced version of templates and provides far more complex templating but we can start with obsidian templates as it also does quite a lot.
+
+## canvas
+while this is new functionality that was added to obsidian this forms a core functionality of obsidian. Imagine having a huge open canvas where you could just organize information and notes and link them with arrows. just like how detectives in moves lays out clues and links people on the case. obsidian canvas is a brilliant feature which was added to obsidian and you can learn more about it here.
+
+- official docs [Obsidian Canvas](https://obsidian.md/canvas)
+- Nick Milo [Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=vLBd_ADeKIw) 
+- Get Productive [Obsidian Canvas: Getting Started - YouTube](https://www.youtube.com/watch?v=z2QpEjMvPlo
+- Vicky Zhao [Mind Mapping in Obsidian Canvas Tutorial - YouTube](https://www.youtube.com/watch?v=eHI-Szjpafk)
+- Nicole [Obsidian Canvas core plugin (new in v1.1.0) - YouTube](https://www.youtube.com/watch?v=rPescoJzcFA) 
 
 ## where and how to get started
 
