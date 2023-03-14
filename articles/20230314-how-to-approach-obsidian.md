@@ -4,7 +4,7 @@ Author: Sanket Sonavane
 Publish Date: 2023-03-14   
 Last Updated: 2023-03-14  
 
-I see a lot of people on reddit `r/obsidian` being overwhelmed when they start using obsidian. I can understand the amount of community plugins and various approaches and analogies people are sharing on youtube on what's the best way to use obsidian can easily confuse someone who is just starting there journey with obsidian. I have been following obsidian from its inception when it just began as a note taking app and hence my knowledge of plugins and note taking as a whole has slowing grown over the years. 
+I see a lot of people on reddit `r/ObsidianMD` being overwhelmed when they start using obsidian. I can understand the amount of community plugins and various approaches and analogies people are sharing on youtube on what's the best way to use obsidian can easily confuse someone who is just starting there journey with obsidian. I have been following obsidian from its inception when it just began as a note taking app and hence my knowledge of plugins and note taking as a whole has slowing grown over the years. 
 
 ## tools I was using earlier 
 - notion
@@ -122,6 +122,9 @@ having year then month then date will auto sort files by date.
 - [Obsidian Discord](https://discord.gg/obsidianmd) 
 - [Obsidian Forum](https://forum.obsidian.md/) 
 - [ObsidianMD](https://www.reddit.com/r/ObsidianMD/) 
+
+reddit
+- [r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/)
 
 youtubers
 these are some of the youtuber I have followed for improving my know how of obsidian and they have been of great help but I would still suggest to check them later, first build something of your own and if you start reaching limitations in your system then check here on how you can expand on your own knowledge of obsidian and take it further.
