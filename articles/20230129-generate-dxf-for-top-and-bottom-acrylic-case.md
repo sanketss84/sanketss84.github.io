@@ -20,7 +20,7 @@ So I wanted to generate an acrylic top and bottom plate for a split mechanical k
 ## Approach
 when you open the kicad.pro file in kicad for the top plate they both seem to have `Edge.Cut (border)` and `F.Mask (plate holes)` Layer so you use kicad to `plot these files to individual dxf files` and now once you have these individual dxfs you need to merge both these to make a single dxf file. This merging can be done in FreeCad.
 
-this is how we use plot in ki-cad  
+this is how we use plot in KiCad  
 ![kicad-plot](/assets/img/dxf/kicad-plot.png) 
 
 So now that you have two dxf files , open one dxf in freecad and import another dxf in that same opened dxf file. now information of both dxf is present in a sigle document. now you select all layers and export this dxf in FreeCAD and thats how you now have a single dxf file.
