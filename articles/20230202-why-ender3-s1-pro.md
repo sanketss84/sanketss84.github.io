@@ -3,6 +3,13 @@ Author: Sanket Sonavane
 Publish Date: 2023-02-02   
 Last Updated: 2023-03-08
 
+<div style="color: #084298; background-color: #cfe2ff; padding: 10px; border: 1px solid #b6d4fe; border-radius: 5px;">  
+Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com).  <br>
+It has a better design, dark mode, article search and category pages.  <br>
+All my findings and latest adventures will be published on the new address. <br>  
+Hope you enjoy the new experience.  
+</div> <br>
+
 > NOTE:  
 > This is a live article i.e. as and when new information is observed or found it will be  
 > 1. appended with time stamps to the end  

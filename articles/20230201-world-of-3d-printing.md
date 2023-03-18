@@ -3,6 +3,13 @@ Author: Sanket Sonavane
 Publish Date: 2023-02-01   
 Last Updated: 2023-02-01
 
+<div style="color: #084298; background-color: #cfe2ff; padding: 10px; border: 1px solid #b6d4fe; border-radius: 5px;">  
+Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com).  <br>
+It has a better design, dark mode, article search and category pages.  <br>
+All my findings and latest adventures will be published on the new address. <br>  
+Hope you enjoy the new experience.  
+</div> <br>
+
 This is a new world to me and an area which is quite fascinating but, never ventured this path. While building my new Sofle v2 keyboard came across a few 3D printed cases which provided great ergonomics and I thought I should get them 3D printed from a nearby location which might provide with this service but in my head I was imagining the various other possibilities and ideas I could bring to life if I had my own. So started the journey of finding my first 3D printer and all I saw was huge communities around creality's Ender 3 series of printers. 
 
 ## printer types

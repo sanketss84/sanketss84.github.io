@@ -4,6 +4,13 @@ Author: Sanket Sonavane
 Publish Date: 2023-01-29  
 Last Updated: 2023-01-29  
 
+<div style="color: #084298; background-color: #cfe2ff; padding: 10px; border: 1px solid #b6d4fe; border-radius: 5px;">  
+Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com).  <br>
+It has a better design, dark mode, article search and category pages.  <br>
+All my findings and latest adventures will be published on the new address. <br>  
+Hope you enjoy the new experience.  
+</div> <br>
+
 ## Summary
 When soldering your microcontroller make sure there is a tape (on all holes) sandwiched between socket and microcontroller. So that when you try to remove the microcontroller you are not surprised that the solder has passed through into the socket and your microcontroller is stuck. 
 

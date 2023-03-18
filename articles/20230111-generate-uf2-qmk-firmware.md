@@ -4,6 +4,13 @@ author: sanket sonavane
 create date: 2023-01-11
 article state: in-progress
 
+<div style="color: #084298; background-color: #cfe2ff; padding: 10px; border: 1px solid #b6d4fe; border-radius: 5px;">  
+Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com).  <br>
+It has a better design, dark mode, article search and category pages.  <br>
+All my findings and latest adventures will be published on the new address. <br>  
+Hope you enjoy the new experience.  
+</div> <br>
+
 So you recently picked a **aurora series lily58 or corne or sweep** and choose **elite-pi** as the microcontroller of choice for its higher memory compared to the elite-c and are wondering how to generate the uf2 qmk firmware file to be flashed to the elite-pi. This is the same question I faced so lets try to understand this step by step.
 
 I suppose you dont have the QMK environment setup locally so we begin from there.

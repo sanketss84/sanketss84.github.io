@@ -4,6 +4,13 @@ Author: Sanket Sonavane
 Publish Date: 2023-03-11   
 Last Updated: 2023-03-12
 
+<div style="color: #084298; background-color: #cfe2ff; padding: 10px; border: 1px solid #b6d4fe; border-radius: 5px;">  
+Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com).  <br>
+It has a better design, dark mode, article search and category pages.  <br>
+All my findings and latest adventures will be published on the new address. <br>  
+Hope you enjoy the new experience.  
+</div> <br>
+
 > NOTE:  
 > This is a live article i.e. as and when new information is observed or found it will be  
 > 1. appended with time stamps to the end  
@@ -37,7 +44,7 @@ these are summary of suggestions which I have received from various communities 
 - [x] retraction distance 1.0mm
 - [x] retraction distance 1.5mm and retraction speed 30mm/s
 - [x] check [Retraction Calibration Tool](http://retractioncalibration.com/)
-- [ ] slowing down fan speed
+- [x] slowing down fan speed
 - [ ] check combing options
 - [ ] adding wipe distance
 - [ ] check out teaching tech's calibration page
@@ -193,8 +200,7 @@ retraction distance at 0.7mm and speeds at 40mm/s for this test
     - result: had far more fine threads than fan running at 100%
 
 - testing at 70% 
-[IMAGE ADD]
-
+    - skipped 
 
 ## references
 reddit 
