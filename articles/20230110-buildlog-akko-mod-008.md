@@ -4,7 +4,7 @@ author: sanket sonavane
 create date: 2023-01-10
 article state: in-progress
 
-> Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com).  
+> <span style="background-color: #cfe2ff"> Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com). </span>  
 > It has a better design, dark mode, article search and category pages.  
 > All my findings and latest adventures will be published on the new address.  
 > Hope you enjoy the new experience.  
