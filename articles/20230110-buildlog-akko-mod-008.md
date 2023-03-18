@@ -4,12 +4,11 @@ author: sanket sonavane
 create date: 2023-01-10
 article state: in-progress
 
-<div class="alert alert-info" role="alert">
-    Hello! Dear Visitor the site is now migrated to <a href="https://www.sanketsjournal.com">sanketsjournal.com</a> <br>
-    It has a better design, dark mode, article search and category pages. <br>
-    All my findings and latest adventures will be published on the new address. <br>
-    Hope you enjoy the new experience. 
-</div>
+> Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com)
+> It has a better design, dark mode, article search and category pages. 
+> All my findings and latest adventures will be published on the new address. 
+> Hope you enjoy the new experience. 
+
 
 ![mod008](../assets/img/akko-mod008/akko-mod-008-med.jpg)
 
