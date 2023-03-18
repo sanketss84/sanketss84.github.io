@@ -5,16 +5,13 @@ create date: 2023-01-10
 article state: in-progress
 
 <div style="color: #084298; background-color: #cfe2ff; padding: 10px; border: 1px solid #b6d4fe; border-radius: 5px;">  
-> Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com).  
-> It has a better design, dark mode, article search and category pages.  
-> All my findings and latest adventures will be published on the new address.  
+> Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com).  <br>
+> It has a better design, dark mode, article search and category pages.  <br>
+> All my findings and latest adventures will be published on the new address. <br>  
 > Hope you enjoy the new experience.  
-</div> 
-
-<div style="color: #084298; background-color: #cfe2ff; padding: 10px; border: 1px solid #b6d4fe; border-radius: 5px;">Hello! Dear Visitor the site is now migrated to [sanketsjournal.com](https://www.sanketsjournal.com). <br>It has a better design, dark mode, article search and category pages.<br>All my findings and latest adventures will be published on the new address.<br>Hope you enjoy the new experience.</div> 
+</div> <br>
 
 ![mod008](../assets/img/akko-mod008/akko-mod-008-med.jpg)
-
 
 **keyboard chassis:** 
 [akko mod 008](https://en.akkogear.com/product/mod-008/)
